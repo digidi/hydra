@@ -16,3 +16,4 @@ Refactor reporting into an event listening system. Add in a default listener tha
 * Progress status "50% (10/20 files)"
 * Time report at the end
 
+https://gist.github.com/1757912
